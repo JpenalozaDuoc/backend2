@@ -1,0 +1,6 @@
+projectKey=BackEnd-Proyecto
+serverUrl=http://127.0.0.1:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=BackEnd-Proyecto
+ceTaskId=c18d12e1-6a0c-4e95-8fba-dbccddc63e77
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=c18d12e1-6a0c-4e95-8fba-dbccddc63e77
